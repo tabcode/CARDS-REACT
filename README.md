@@ -1,3 +1,2 @@
 <h1>CARDS IN REACT WITH BOOTSTRAP</h1>
-<hr />
-<img src="./src/assets/presentation.png" />
+03/03/2021
